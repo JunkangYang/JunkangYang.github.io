@@ -1,14 +1,14 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Junkang Yang 杨俊康
+position: Master Student
+affiliation: Chongqing University of Posts and Telecommunications
+email: junkangyang@outlook.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Junkang Yang personal page
+description: The academic personal homepage of Junkang Yang.
+canonical: https://junkangyang.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -26,7 +26,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
