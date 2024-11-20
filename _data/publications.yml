@@ -4,6 +4,7 @@ main:
     authors: <strong>Junkang Yang</strong>, Hongqing Liu, Lu Gan, Yi Zhou, Xing Li, Jie Jia and Jinzhuo Yao
     conference_short: APSIPA ASC
     conference: Asia Pacific Signal and Information Processing Association Annual Summit and Conference <strong>(APSIPA ASC)</strong>, 2024.
+    pdf: https://junkangyang.github.io/assets/files/SDNet-cemera-ready.pdf
     page: https://sdnetdemo.github.io
     image: ./assets/img/2024-11-20-172717.png
     notes: Accepted, Oral Presentation
@@ -12,6 +13,7 @@ main:
     authors: Jinzhuo Yao, Hongqing Liu, Yi Zhou, Lu Gan and <strong>Junkang Yang</strong>
     conference_short: APSIPA ASC
     conference: Asia Pacific Signal and Information Processing Association Annual Summit and Conference <strong>(APSIPA ASC)</strong>, 2024.
+    pdf: https://junkangyang.github.io/assets/files/DTFAN-cemera-ready.pdf
     notes: Accepted, Oral Presentation
     image: ./assets/img/2024-11-20-172751.png
 
@@ -19,7 +21,7 @@ main:
     authors: <strong>Junkang Yang</strong>, Hongqing Liu*, Lu Gan, Xiaorong Jing (*Corresponding Author)
     conference_short: JASA
     conference: The Journal of the Acoustical Society of America <strong>(JASA)</strong>
-    pdf: https://pubs.aip.org/asa/jasa/article/156/5/3143/3320008/Spectral-network-based-on-lattice-convolution-and
+    pdf: https://junkangyang.github.io/assets/files/3143_1.pdf
     image: ./assets/img/2024-11-20-172833.png
     page: https://sdnetdemo.github.io
 
@@ -27,5 +29,6 @@ main:
     authors: <strong>Junkang Yang</strong>, Hongqing Liu, Xing Li, Jie Jia
     conference_short: AINIT
     conference: 5th International Seminar on Artificial Intelligence, Networking and Information Technology <strong>(AINIT)</strong>, 2024.
-    pdf: https://ieeexplore.ieee.org/document/10581580
+    pdf: https://junkangyang.github.io/assets/files/9ad56a16-1bdd-4248-9041-d699c0655d5a.pdf
+    poster: https://junkangyang.github.io/assets/files/Poster-A1-Template.pdf
     image: ./assets/img/2024-11-20-172503.png
