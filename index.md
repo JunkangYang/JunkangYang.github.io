@@ -4,19 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello! I’m Junkang, currently a master student at *Intelligent Speech and Audio Research Lab, School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications*. I'm supervised by Prof. Hongqing Liu and my research focuses on speech & audio signal processing. I’m passionate about solving challenging problems and advancing knowledge in this field.
+
+Feel free to explore my website to learn more about my research and reach out if you'd like to connect!
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Speech Enhancement and Noise Reduction**
+- **Audio Super-Resolution**
+- **Audio Quality Repair**
+- **Real-time Audio Processing**
+- **Deep Learning in Speech and Audio Signal Processing**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2024]** I will attend APSIPA ASC 2024 in Macau and have a presentation.
+- **[Oct. 2024]** One paper is accepted to The Journal of Acoustical Society of America.
+- **[Sep. 2024]** Two papers are accepted to APSIPA ASC 2024.
 
 {% include_relative _includes/publications.md %}
 
