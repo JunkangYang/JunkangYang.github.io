@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I’m Junkang, currently a master student at *Intelligent Speech and Audio Research Lab, School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications*. I'm supervised by Prof. Hongqing Liu and my research focuses on speech & audio signal processing. I’m passionate about solving challenging problems and advancing knowledge in this field.
+Hello! I’m Junkang, currently a master student at *Intelligent Speech and Audio Research Lab, School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications*. I'm supervised by *Prof. Hongqing Liu* and my research focuses on *speech & audio signal processing*. I’m passionate about solving challenging problems and advancing knowledge in this field.
 
 Feel free to explore my website to learn more about my research and reach out if you'd like to connect!
 
@@ -13,7 +13,7 @@ Feel free to explore my website to learn more about my research and reach out if
 - **Speech Enhancement and Noise Reduction**
 - **Audio Super-Resolution**
 - **Audio Quality Repair**
-- **Real-time Audio Processing**
+- **Real-Time Audio Processing**
 - **Deep Learning in Speech and Audio Signal Processing**
 
 ## News
