@@ -4,17 +4,18 @@ main:
     authors: <strong>Junkang Yang</strong>, Hongqing Liu, Lu Gan, Yi Zhou, Xing Li, Jie Jia and Jinzhuo Yao
     conference_short: APSIPA ASC
     conference: Asia Pacific Signal and Information Processing Association Annual Summit and Conference <strong>(APSIPA ASC)</strong>, 2024.
-    pdf: https://junkangyang.github.io/assets/files/SDNet-cemera-ready.pdf
+    pdf: https://junkangyang.github.io/assets/files/SDNet-camera-ready.pdf
     page: https://sdnetdemo.github.io
     image: ./assets/img/2024-11-20-172717.png
-    notes: Accepted, Oral Presentation
+    notes: Oral Presentation
+    slides: https://junkangyang.github.io/assets/files/SDNet-slides.pdf
 
   - title: "Diverse Time-Frequency Attention Neural Network for Acoustic Echo Cancellation"
     authors: Jinzhuo Yao, Hongqing Liu, Yi Zhou, Lu Gan and <strong>Junkang Yang</strong>
     conference_short: APSIPA ASC
     conference: Asia Pacific Signal and Information Processing Association Annual Summit and Conference <strong>(APSIPA ASC)</strong>, 2024.
-    pdf: https://junkangyang.github.io/assets/files/DTFAN-cemera-ready.pdf
-    notes: Accepted, Oral Presentation
+    pdf: https://junkangyang.github.io/assets/files/DTFAN-camera-ready.pdf
+    notes: Oral Presentation
     image: ./assets/img/2024-11-20-172751.png
 
   - title: "Spectral Network Based on Lattice Convolution and Adversarial Training for Noise-Robust Speech Super-Resolution" 
