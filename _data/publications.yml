@@ -1,35 +1,27 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "SDNet: Noise-Robust Bandwidth Extension under Flexible Sampling Rates"
+    authors: <strong>Junkang Yang</strong>, Hongqing Liu, Lu Gan, Yi Zhou, Xing Li, Jie Jia and Jinzhuo Yao
+    conference_short: APSIPA ASC
+    conference: Asia Pacific Signal and Information Processing Association Annual Summit and Conference <strong>(APSIPA ASC)</strong>, 2024.
+    page: https://sdnetdemo.github.io
+    image: ./assets/img/2024-11-20-172717.png
+    notes: Accepted, Oral Presentation
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Diverse Time-Frequency Attention Neural Network for Acoustic Echo Cancellation"
+    authors: Jinzhuo Yao, Hongqing Liu, Yi Zhou, Lu Gan and <strong>Junkang Yang</strong>
+    conference_short: APSIPA ASC
+    conference: Asia Pacific Signal and Information Processing Association Annual Summit and Conference <strong>(APSIPA ASC)</strong>, 2024.
+    notes: Accepted, Oral Presentation
+    image: ./assets/img/2024-11-20-172751.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://ieeexplore.ieee.org/document/10581580
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Spectral Network Based on Lattice Convolution and Adversarial Training for Noise-Robust Speech Super-Resolution" 
+    authors: <strong>Junkang Yang</strong>, Hongqing Liu*, Lu Gan, Xiaorong Jing (*Corresponding Author)
+    conference_short: JASA
+    conference: The Journal of the Acoustical Society of America <strong>(JASA)</strong>
+    pdf: https://pubs.aip.org/asa/jasa/article/156/5/3143/3320008/Spectral-network-based-on-lattice-convolution-and
+    image: ./assets/img/2024-11-20-172833.png
+    page: https://sdnetdemo.github.io
 
   - title: "Speech Super Resolution and Noise Suppression System Using a Two-Stage Neural Network"
     authors: <strong>Junkang Yang</strong>, Hongqing Liu, Xing Li, Jie Jia
