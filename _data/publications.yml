@@ -1,5 +1,11 @@
 main:
 
+  - title: "Unsupervised Anomaly Detection Method for Electrical Equipment Based on Audio Latent Representation and Parallel Attention Mechanism" 
+    authors: Wei Zhou, Shaoping Zhou, Yikun Cao, <strong>Junkang Yang</strong>, Hongqing Liu* (*Corresponding Author)
+    conference: Applied Science-Basel
+    pdf: https://junkangyang.github.io/assets/files/applsci-15-08474.pdf
+    image: ./assets/img/2025-07-31-210422.png
+
   - title: "SDNet: Noise-Robust Bandwidth Extension under Flexible Sampling Rates"
     authors: <strong>Junkang Yang</strong>, Hongqing Liu, Lu Gan, Yi Zhou, Xing Li, Jie Jia and Jinzhuo Yao
     conference_short: APSIPA ASC
