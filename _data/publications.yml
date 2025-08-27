@@ -4,7 +4,7 @@ main:
     authors: <strong>Junkang Yang</strong>, Hongqing Liu, Liming Shi, Lu Gan, Hiromitsu Nishizaki* and Chee Siang Leow (*Corresponding Author)
     conference_short: APSIPA ASC
     conference: Asia Pacific Signal and Information Processing Association Annual Summit and Conference <strong>(APSIPA ASC)</strong>, 2025.
-    pdf: A_Semi_Supervised_Acoustic_Scene_Classification_Network_Based_on_Multi_Modal_Information_Fusion (camera-ready).pdf
+    pdf: A_Semi_Supervised_Acoustic_Scene_Classification_Network_Based_on_Multi_Modal_Information_Fusion(camera-ready).pdf
     image: ./assets/img/ASC.png
     notes: The 3rd Place in Grand Challenge
 
