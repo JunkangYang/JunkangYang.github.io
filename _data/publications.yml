@@ -23,7 +23,7 @@ main:
     page: https://sdnetdemo.github.io
     image: ./assets/img/2024-11-20-172717.png
     notes: Oral Presentation
-    slides: https://junkangyang.github.io/assets/files/SDNet-slides.pdf
+    slide: https://junkangyang.github.io/assets/files/SDNet-slides.pdf
 
   - title: "Diverse Time-Frequency Attention Neural Network for Acoustic Echo Cancellation"
     authors: Jinzhuo Yao, Hongqing Liu, Yi Zhou, Lu Gan and <strong>Junkang Yang</strong>
