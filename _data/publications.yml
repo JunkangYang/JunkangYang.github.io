@@ -13,7 +13,7 @@ main:
 
   - title: "Unsupervised Anomaly Detection Method for Electrical Equipment Based on Audio Latent Representation and Parallel Attention Mechanism" 
     authors: Wei Zhou, Shaoping Zhou, Yikun Cao, <strong>Junkang Yang</strong>, Hongqing Liu* (*Corresponding Author)
-    conference: Applied Science-Basel, 2024
+    conference: Applied Science-Basel, 2024.
     pdf: https://junkangyang.github.io/assets/files/applsci-15-08474.pdf
     image: ./assets/img/2025-07-31-210422.jpg
 
@@ -39,7 +39,7 @@ main:
   - title: "Spectral Network Based on Lattice Convolution and Adversarial Training for Noise-Robust Speech Super-Resolution" 
     authors: <strong>Junkang Yang</strong>, Hongqing Liu*, Lu Gan, Xiaorong Jing (*Corresponding Author)
     conference_short: JASA
-    conference: The Journal of the Acoustical Society of America <strong>(JASA)</strong>, 2024
+    conference: The Journal of the Acoustical Society of America <strong>(JASA)</strong>, 2024.
     pdf: https://junkangyang.github.io/assets/files/3143_1.pdf
     image: ./assets/img/2024-11-20-172833.png
     page: https://sdnetdemo.github.io
