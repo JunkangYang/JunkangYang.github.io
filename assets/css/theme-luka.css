@@ -367,6 +367,12 @@ body.theme-luka .publications ol.bibliography li {
   margin-bottom: 14px;
   padding: 15px 0 15px 16px;
   border-left: 3px solid var(--luka-accent);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+body.theme-luka .publications ol.bibliography li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px var(--luka-shadow);
 }
 
 body.theme-luka .pub-content .title {
