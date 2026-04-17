@@ -369,6 +369,17 @@ body.theme-luka .publications ol.bibliography li {
   border-left: 3px solid var(--luka-accent);
 }
 
+body.theme-luka .pub-content {
+  margin-bottom: 28px;
+  padding: 12px 16px 12px 16px;
+  border-left: 3px solid var(--luka-accent);
+}
+
+body.theme-luka .pub-content:hover {
+  background: rgba(194, 113, 79, 0.05);
+  transition: 0.2s;
+}
+
 body.theme-luka .pub-content .title {
   margin-bottom: 4px;
   color: var(--luka-text);
@@ -391,10 +402,6 @@ body.theme-luka .pub-content .periodical {
 body.theme-luka .pub-content .links a {
   font-size: 13px;
   font-weight: 500;
-}
-
-body.theme-luka .pub-content:not(:last-child) {
-  margin-bottom: 20px;
 }
 
 body.theme-luka .awards-grid {
