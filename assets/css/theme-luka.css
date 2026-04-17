@@ -393,6 +393,10 @@ body.theme-luka .pub-content .links a {
   font-weight: 500;
 }
 
+body.theme-luka .pub-content:not(:last-child) {
+  margin-bottom: 20px;
+}
+
 body.theme-luka .awards-grid {
   display: flex;
   flex-direction: column;
